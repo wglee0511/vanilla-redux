@@ -15,6 +15,8 @@
 
 # Part.3 Redux Toolkit
 
-- Change todolist code to redux toolkit
-- createAction
-- createReducer
+1. Change todolist code to redux toolkit
+2. createAction
+3. createReducer
+4. configureStore
+5. createSlice

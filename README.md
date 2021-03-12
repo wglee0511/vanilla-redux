@@ -12,3 +12,9 @@
 1. store.js and Provider in index.js
 2. Write code todo list
 3. Write code Details page
+
+# Part.3 Redux Toolkit
+
+- Change todolist code to redux toolkit
+- createAction
+- createReducer

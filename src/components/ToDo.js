@@ -7,11 +7,12 @@ function ToDo(props) {
     const {text, id ,delToDo} = props;
     console.log(props)
     return (
-        <Link to={`/${id}`}> 
         <li>
-        {text}<button onClick={delToDo}>DEL</button>
-        </li>
+        <Link to={`/${id}`}> 
+        {text}
         </Link>
+        <button onClick={delToDo}>DEL</button>
+        </li>
     )
 }
 

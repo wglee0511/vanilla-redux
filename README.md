@@ -10,3 +10,5 @@
 # Part.2 React Redux (Todos)
 
 1. store.js and Provider in index.js
+2. Make todo list
+3. Make Details page

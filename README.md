@@ -6,3 +6,5 @@
 
 1.  Vanilla javascript counter => Vanilla javascript redux counter
 2.  Vanilla javascript Todos => Vanilla javascript redux Todos
+
+# Part.2 React Redux
